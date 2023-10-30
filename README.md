@@ -1,3 +1,10 @@
+
+![Screenshot 2023-10-30 at 10 52 49 PM](https://github.com/SunilKharsu/AI-imageGenerator-MiniProject/assets/112311905/4b9a21bd-87a4-45a0-9bb4-f854bbafed5f)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
